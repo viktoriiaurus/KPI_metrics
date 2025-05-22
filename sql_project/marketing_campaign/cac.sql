@@ -1,3 +1,11 @@
+-- Let’s assume we have data for two advertising campaigns.
+--
+-- Campaign #1 involved a collaboration with a popular food blogger on a YouTube channel.
+-- The total budget was 250,000 conditional units, resulting in 171 new user registrations on September 1.
+--
+-- Campaign #2 relied on targeted social media ads.
+-- It had the same budget of 250,000 conditional units and led to 236 new user registrations on the same day.
+
 with com1 as (
     SELECT
         ('Campaign № 1') as ads_campaign,
