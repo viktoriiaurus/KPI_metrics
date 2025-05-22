@@ -7,12 +7,12 @@
 - [🧠 Background](#🧠-background)
 - [🛠️ Tools I used](#🛠️-tools-i-used)
 - [📊 The Analysis](#📊-the-analysis)
-  - [1. User Engagement & Activity Overview](#user-engagement-and-activity-overview)
-  - [2. Growth & Workforce Dynamics](#2-skills-for-top-paying-jobs)
-  - [3. Financial Performance & Profitability](#3-most-in-demand-skills)
-  - [4. Monetization & Product Insights](#4-high-value-technical-skills)
-  - [5. Marketing Campaign Analysis — CAC, ROI, Average Check, and Cumulative ARPPU](#5-most-optimal-skills-to-learn)
-  - [2. Growth & Workforce Dynamics](#2-skills-for-top-paying-jobs)
+  - [1. User Engagement and Activity Overview](https://github.com/viktoriiaurus/KPI_metrics/tree/main#1-user-engagement--activity-overview)
+  - [2. Growth & Workforce Dynamics](https://github.com/viktoriiaurus/KPI_metrics/tree/main#2-growth--workforce-dynamics)
+  - [3. Financial Performance & Profitability](https://github.com/viktoriiaurus/KPI_metrics/tree/main#3-financial-performance--profitability)
+  - [4. Monetization & Product Insights](https://github.com/viktoriiaurus/KPI_metrics/tree/main#4-monetization--product-insights)
+  - [5. Marketing Campaign Analysis — CAC, ROI, Average Check, and Cumulative ARPPU](https://github.com/viktoriiaurus/KPI_metrics/tree/main#5-marketing-campaign-analysis--cac-roi-average-check-and-cumulative-arppu)
+  - [6. Users Retention](https://github.com/viktoriiaurus/KPI_metrics/tree/main#6-users-retention)
 - [🧠 What I Learned](#🧠-what-i-learned)
 - [✅ Closing Thoughts](#✅-closing-thoughts)
 
@@ -40,7 +40,7 @@ The data models the delivery operation with entities such as users, couriers, or
 - **Git & GitHub:** Version control and project management
 
 ## 📊 The Analysis  
-### 1. User Engagement & Activity Overview
+### 1. User Engagement and Activity Overview
 
 ![User Engagement & Activity Overviews](dashboards/dashboard_1.jpeg)
 *[User Engagement & Activity Overviews](https://redash.public.karpov.courses/public/dashboards/mLxC2Th1LQLXCxiUjJ3D3GJBQ29yMTEbjGxtLiY6?org_slug=default)*
