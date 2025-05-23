@@ -1,4 +1,4 @@
-# 💼 KPI Metrics Analysis Project
+# 💼 KPI Analysis Project
 
 
 ## 📚 Table of Contents
